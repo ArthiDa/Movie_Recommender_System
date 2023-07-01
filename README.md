@@ -1,3 +1,3 @@
 # Movie_Recommender_System
-This ML was project done by [campusx](https://www.youtube.com/@campusx-official)
-You can find the full project tutorial in [here](https://youtu.be/1xtrIEwY_zY)
+This ML project was done by [campusx](https://www.youtube.com/@campusx-official)__
+You can find the whole project tutorial [here](https://youtu.be/1xtrIEwY_zY)
